@@ -91,7 +91,7 @@ function myFunction(x) {
     
     function countdown(){
 				var now = new Date();
-				var eventDate = new Date(2019, 9, 30);
+				var eventDate = new Date(2022, 9, 30);
 
 				var currentTiime = now.getTime();
 				var eventTime = eventDate.getTime();
